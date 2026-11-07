@@ -1,4 +1,3 @@
-
 const loginForm = document.getElementById("loginForm");
 const loginView = document.getElementById("loginView");
 const homeView = document.getElementById("homeView");
@@ -80,3 +79,4 @@ errorModal.addEventListener("click", function(event) {
         errorModal.classList.add("hidden");
     }
 });
+
